@@ -1,5 +1,7 @@
+//This code is used to change the theme of the website
 /** @type {import('tailwindcss').Config} */
-export default {
+const colors = require("tailwindcss/colors");
+module.exports = {
   content: [
     "./pages/**/*.{js,ts,jsx,tsx,mdx}",
     "./components/**/*.{js,ts,jsx,tsx,mdx}",
@@ -7,10 +9,16 @@ export default {
   ],
   theme: {
     extend: {
-      colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+      backgroundImage: {
+        "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
+        "gradient-conic":
+          "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+    },
+    colors: {
+      ...colors,
+      primary: colors.yellow,
+      secondary: colors.yellow,
     },
   },
   plugins: [],
