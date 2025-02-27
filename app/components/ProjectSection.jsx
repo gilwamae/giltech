@@ -10,19 +10,19 @@ const projectsData = [
         id: 1,
         title: "React Portfolio Website",
         description: "Project 1 description",
-        image: "/images/projects/1.png",
+        image: "/images/projects/7.png",
         tag: ["All", "Web"],
-        gitUrl: "/",
+        gitUrl: "https://github.com/gilwamae/giltech.git",
         previewUrl: "/"
      
     },
     {
         id: 2,
-        title: "Photography Portfolio Website",
+        title: "Job Searching Website",
         description: "Project 2 description",
-        image: "/images/projects/2.png",
+        image: "/images/projects/8.png",
         tag: ["All", "Web"],
-        gitUrl: "/",
+        gitUrl: "https://github.com/gilwamae/jobsearching.git",
         previewUrl: "/"
     
     }

@@ -34,7 +34,10 @@ const HeroSection = () => {
                     <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lf:text-xl">Looking for a modern, high-performance website or custom software to grow your business? You’re in the right place!
                     </p>
                     <div>
-                        <button className="px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-blue-500 via-primary-500 to-secondary-500    hover:bg-slate-200 text-white">Hire Me</button>
+                    <a href="mailto:gilwayne900@gmail.com?subject=Hiring%20Inquiry&body=Hello%20Gil,%20I%20would%20like%20to%20hire%20you%20for..." className="px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-blue-500 via-primary-500 to-secondary-500 hover:bg-slate-200 text-white inline-block text-center">
+  Hire Me
+</a>
+
                         <button className="px-1 py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-blue-500 via-primary-500 to-secondary-500 hover:bg-slate-800 text-white  mt-3">
                             <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">Download CV</span>
                         </button>
