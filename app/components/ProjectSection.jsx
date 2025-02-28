@@ -18,12 +18,12 @@ const projectsData = [
     },
     {
         id: 2,
-        title: "Job Searching Website",
+        title: "Advanced Personal Portfolio",
         description: "Project 2 description",
         image: "/images/projects/8.png",
         tag: ["All", "Web"],
-        gitUrl: "https://github.com/gilwamae/jobsearching.git",
-        previewUrl: "/"
+        gitUrl: "https://github.com/gilwamae/Personal-Portfolio.git",
+        previewUrl: "https://personal-portfolio-2-one.vercel.app/"
     
     }
 ];
