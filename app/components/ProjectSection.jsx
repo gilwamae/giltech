@@ -20,7 +20,7 @@ const projectsData = [
         id: 2,
         title: "Advanced Personal Portfolio",
         description: "Project 2 description",
-        image: "/images/projects/8.png",
+        image: "/images/projects/9.png",
         tag: ["All", "Web"],
         gitUrl: "https://github.com/gilwamae/Personal-Portfolio.git",
         previewUrl: "https://personal-portfolio-2-one.vercel.app/"
