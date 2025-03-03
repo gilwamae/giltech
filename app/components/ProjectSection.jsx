@@ -4,7 +4,6 @@ import ProjectCard from "./ProjectCard";
 import ProjectTag from "./ProjectTag";
 
 
-
 const projectsData = [
     {
         id: 1,
@@ -25,6 +24,15 @@ const projectsData = [
         gitUrl: "https://github.com/gilwamae/Personal-Portfolio.git",
         previewUrl: "https://personal-portfolio-2-one.vercel.app/"
     
+    },
+    {
+        id: 3,
+        title: "Forex Trading Website",
+        description: "Project 2 description",
+        image: "/images/projects/10.png",
+        tag: ["All", "Web"],
+        gitUrl: "https://github.com/gilwamae/GainwiseFX.git",
+        previewUrl: "https://gainwisefx-one.vercel.app/"
     }
 ];
 
