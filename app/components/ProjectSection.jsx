@@ -12,7 +12,7 @@ const projectsData = [
         image: "/images/projects/7.png",
         tag: ["All", "Web"],
         gitUrl: "https://github.com/gilwamae/giltech.git",
-        previewUrl: "https://giltech-ae4sjva40-gil-wamaes-projects.vercel.app/"
+        previewUrl: "https://giltech-three.vercel.app/"
      
     },
     {
@@ -28,7 +28,7 @@ const projectsData = [
     {
         id: 3,
         title: "Forex Trading Website",
-        description: "Project 2 description",
+        description: "Project 3 description",
         image: "/images/projects/10.png",
         tag: ["All", "Web"],
         gitUrl: "https://github.com/gilwamae/GainwiseFX.git",
