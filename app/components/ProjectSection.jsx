@@ -33,6 +33,15 @@ const projectsData = [
         tag: ["All", "Web"],
         gitUrl: "https://github.com/gilwamae/GainwiseFX.git",
         previewUrl: "https://gainwisefx-one.vercel.app/"
+    },
+    {
+        id: 4,
+        title: "Furniture E-Commerce Webiste",
+        description: "Project 4 description",
+        image: "/images/projects/11.png",
+        tag: ["All", "Web"],
+        gitUrl: "https://github.com/gilwamae/E-Commerce.git",
+        previewUrl: "https://gilshop.vercel.app/"
     }
 ];
 
