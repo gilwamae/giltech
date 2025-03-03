@@ -12,7 +12,7 @@ const projectsData = [
         image: "/images/projects/7.png",
         tag: ["All", "Web"],
         gitUrl: "https://github.com/gilwamae/giltech.git",
-        previewUrl: "https://giltech-three.vercel.app/"
+        previewUrl: "https://giltech-ae4sjva40-gil-wamaes-projects.vercel.app/"
      
     },
     {
