@@ -42,7 +42,16 @@ const projectsData = [
         tag: ["All", "Web"],
         gitUrl: "https://github.com/gilwamae/E-Commerce.git",
         previewUrl: "https://gilshop.vercel.app/"
-    }
+    },
+       {
+        id: 5,
+        title: "Optical Website Design",
+        description: "Project 5 description",
+        image: "/images/projects/12.png",
+        tag: ["All", "Web"],
+        gitUrl: "https://github.com/gilwamae/optical.git",
+        previewUrl: "https://optical-iota.vercel.app/"
+    }  
 ];
 
 const ProjectSection = () => {
