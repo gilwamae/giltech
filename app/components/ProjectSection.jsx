@@ -51,7 +51,16 @@ const projectsData = [
         tag: ["All", "Web"],
         gitUrl: "https://github.com/gilwamae/optical.git",
         previewUrl: "https://optical-iota.vercel.app/"
-    }  
+    },
+        {
+        id: 6,
+        title: "Ibbex Ventures Website",
+        description: "Project 6 description",
+        image: "/images/projects/13.png",
+        tag: ["All", "Web"],
+        gitUrl: "https://github.com/gilwamae/ibbex-ventures.git",
+        previewUrl: "https://ibbex-ventures.vercel.app/"
+    }
 ];
 
 const ProjectSection = () => {
