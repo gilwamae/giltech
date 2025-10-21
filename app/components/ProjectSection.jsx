@@ -60,6 +60,15 @@ const projectsData = [
         tag: ["All", "Web"],
         gitUrl: "https://github.com/gilwamae/ibbex-ventures.git",
         previewUrl: "https://ibbex-ventures.vercel.app/"
+    },
+    {
+        id: 7,
+        title: "Gridless Mobility Website",
+        description: "Project 7 description",
+        image: "/images/projects/14.png",
+        tag: ["All", "Web"],
+        gitUrl: "https://github.com/gilwamae/EV-WEBSITE.git",
+        previewUrl: "https://ev-website-plum-tau.vercel.app/"
     }
 ];
 
